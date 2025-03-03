@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1069204216516</string>
+    <string name="google_api_key" translatable="false">AIzaSyCTH31X0LjZeVCVC2IYtTItX7LJAGZ6glU</string>
+    <string name="google_app_id" translatable="false">1:1069204216516:android:c0abdcaee58efef70c8791</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCTH31X0LjZeVCVC2IYtTItX7LJAGZ6glU</string>
+    <string name="google_storage_bucket" translatable="false">movieapp-e7dce.firebasestorage.app</string>
+    <string name="project_id" translatable="false">movieapp-e7dce</string>
+</resources>
